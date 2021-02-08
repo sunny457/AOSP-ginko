@@ -28,7 +28,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 $(call inherit-product, vendor/arrow/config/common.mk)
 
 # Device identifier
-PRODUCT_NAME := aosp_ginkgo
+PRODUCT_NAME := arrow_ginkgo
 PRODUCT_DEVICE := ginkgo
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 8
